@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @abdulemil
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋
+Typing SVG
 
-<!---
-abdulemil/abdulemil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
--I love GYM and Fronted>,,
+
+
+💻 Tech Skills
+HTML5 CSS3 SASS Bootstrap FONT-AWESOME MATERIALUI TailwindCSS JavaScript J-QUERY JSON TypeScript Express.js NodeJS NPM React POSTMAN FastAPI Next JS Redux MySQL MongoDB SQLite FIREBASE XAMPP Vercel Netlify HEROKU
+PHP JAVA
+
+🛠️ Tools
+vscode intellij postman mysql mongodb github
